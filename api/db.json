@@ -1,3 +1,19 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "Post first",
+      "body": "Koskjas",
+      "id": 2
+    },
+    {
+      "title": "Post first",
+      "body": "Koskja",
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "body": "sda",
+      "id": 4
+    }
+  ]
 }
